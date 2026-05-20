@@ -254,7 +254,7 @@ module plates() {
 //	}
 
 
-	// upper bottom plate
+//	// upper bottom plate
 //	color("blue") translate([0, 0, thickness])
 //	hull() {
 //		// top left
